@@ -1,0 +1,53 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of January 1,
+2024 (the "Effective Date") by and between Northwind Logistics, Inc.
+("Client") and Beacon Analytics LLC ("Provider").
+
+1. SERVICES. Provider shall perform data analytics and reporting services
+for Client as described in one or more Statements of Work executed under
+this Agreement.
+
+2. PAYMENT. Client shall pay Provider's fees within thirty (30) days of
+receipt of each invoice. Late payments accrue interest at 1.5% per month.
+
+3. TERM AND TERMINATION. This Agreement commences on the Effective Date and
+continues for an initial term of one (1) year, automatically renewing for
+successive one-year terms unless either party provides at least sixty (60)
+days' written notice of non-renewal prior to the end of the then-current
+term. Either party may terminate this Agreement immediately for cause if
+the other party commits a material breach and fails to cure such breach
+within fifteen (15) days after written notice thereof. Client may also
+terminate this Agreement for convenience upon ninety (90) days' prior
+written notice, subject to payment of fees for services rendered through
+the termination date.
+
+4. CONFIDENTIALITY. Each party (the "Receiving Party") agrees to protect
+the other party's ("Disclosing Party") Confidential Information using at
+least the same degree of care it uses for its own confidential information,
+and in no event less than reasonable care. Confidential Information
+excludes information that is or becomes publicly available through no
+fault of the Receiving Party, was rightfully known to the Receiving Party
+prior to disclosure, or is required to be disclosed by law, provided the
+Receiving Party gives prompt notice to allow the Disclosing Party to seek a
+protective order. The obligations in this Section survive termination of
+this Agreement for a period of three (3) years.
+
+5. LIMITATION OF LIABILITY. EXCEPT FOR BREACHES OF SECTION 4
+(CONFIDENTIALITY) OR EITHER PARTY'S INDEMNIFICATION OBLIGATIONS, NEITHER
+PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. EACH PARTY'S AGGREGATE LIABILITY ARISING OUT
+OF THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES PAID OR PAYABLE BY CLIENT
+UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING
+RISE TO THE CLAIM.
+
+6. INDEMNIFICATION. Provider shall indemnify and hold Client harmless from
+any third-party claims arising from Provider's gross negligence or willful
+misconduct in performing the Services.
+
+7. GOVERNING LAW. This Agreement shall be governed by the laws of the State
+of Delaware, without regard to its conflict of laws principles.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+Effective Date.

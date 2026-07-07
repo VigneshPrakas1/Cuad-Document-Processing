@@ -1,0 +1,49 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement ("Agreement") is entered into as of June 1,
+2022, by and between Cascade Software Inc. ("Licensor") and Union Retail
+Group ("Licensee").
+
+1. GRANT OF LICENSE. Subject to the terms of this Agreement, Licensor
+grants Licensee a non-exclusive, non-transferable license to use the
+Cascade Inventory Management Platform (the "Software") solely for
+Licensee's internal business operations.
+
+2. FEES. Licensee shall pay an annual license fee as set forth in Exhibit
+A, due within forty-five (45) days of the invoice date.
+
+3. TERM AND TERMINATION. This Agreement shall commence on the Effective
+Date and continue for three (3) years (the "Initial Term"). Thereafter,
+this Agreement shall automatically renew for successive one-year periods
+unless either party provides written notice of non-renewal at least one
+hundred twenty (120) days prior to the end of the then-current term.
+Licensor may suspend or terminate Licensee's access immediately if Licensee
+fails to pay any undisputed amount within thirty (30) days of notice of
+non-payment. Upon any termination or expiration, Licensee shall
+immediately cease all use of the Software and destroy all copies in its
+possession.
+
+4. CONFIDENTIAL INFORMATION. During the term of this Agreement, the
+parties may disclose to each other information that is treated as
+confidential. Each party agrees to use the other party's confidential
+information only as necessary to perform its obligations under this
+Agreement, and not to disclose such information to any third party except
+to employees and contractors with a need to know who are bound by
+confidentiality obligations at least as protective as those in this
+Agreement.
+
+5. WARRANTY DISCLAIMER. EXCEPT AS EXPRESSLY SET FORTH HEREIN, THE SOFTWARE
+IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS,
+IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+6. LIMITATION OF LIABILITY. LICENSOR'S TOTAL CUMULATIVE LIABILITY ARISING
+OUT OF OR RELATED TO THIS AGREEMENT SHALL NOT EXCEED THE FEES PAID BY
+LICENSEE IN THE TWELVE (12) MONTHS PRIOR TO THE CLAIM. IN NO EVENT SHALL
+LICENSOR BE LIABLE FOR LOST PROFITS OR CONSEQUENTIAL DAMAGES, EVEN IF
+FORESEEABLE.
+
+7. INDEMNIFICATION. Licensor shall defend Licensee against any third-party
+claim alleging that the Software infringes a valid patent or copyright,
+and shall indemnify Licensee for damages finally awarded, provided
+Licensee promptly notifies Licensor of the claim.

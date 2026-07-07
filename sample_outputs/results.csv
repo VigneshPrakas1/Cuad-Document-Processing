@@ -1,0 +1,16 @@
+contract_id,filename,summary,termination_clause,confidentiality_clause,liability_clause
+sample_license_003,sample_license_003.txt,"[MOCK SUMMARY] This is a placeholder summary generated in mock mode (USE_MOCK_LLM=true), standing in for a 100-150 word LLM-written summary of the contract's purpose, obligations, and risks. Set USE_MOCK_LLM=false and provide an ANTHROPIC_API_KEY to generate a real summary from the contract text.","[MOCK] Standard 30-day termination for convenience.
+
+Excerpts: [MOCK] Either party may terminate this Agreement upon 30 days notice.","[MOCK] Mutual confidentiality obligation.
+
+Excerpts: [MOCK] Each party shall keep Confidential Information secret.",NOT FOUND
+sample_msa_001,sample_msa_001.txt,"[MOCK SUMMARY] This is a placeholder summary generated in mock mode (USE_MOCK_LLM=true), standing in for a 100-150 word LLM-written summary of the contract's purpose, obligations, and risks. Set USE_MOCK_LLM=false and provide an ANTHROPIC_API_KEY to generate a real summary from the contract text.","[MOCK] Standard 30-day termination for convenience.
+
+Excerpts: [MOCK] Either party may terminate this Agreement upon 30 days notice.","[MOCK] Mutual confidentiality obligation.
+
+Excerpts: [MOCK] Each party shall keep Confidential Information secret.",NOT FOUND
+sample_nda_002,sample_nda_002.txt,"[MOCK SUMMARY] This is a placeholder summary generated in mock mode (USE_MOCK_LLM=true), standing in for a 100-150 word LLM-written summary of the contract's purpose, obligations, and risks. Set USE_MOCK_LLM=false and provide an ANTHROPIC_API_KEY to generate a real summary from the contract text.","[MOCK] Standard 30-day termination for convenience.
+
+Excerpts: [MOCK] Either party may terminate this Agreement upon 30 days notice.","[MOCK] Mutual confidentiality obligation.
+
+Excerpts: [MOCK] Each party shall keep Confidential Information secret.",NOT FOUND

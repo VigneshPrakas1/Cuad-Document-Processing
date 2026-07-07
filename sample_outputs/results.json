@@ -1,0 +1,74 @@
+[
+  {
+    "contract_id": "sample_license_003",
+    "filename": "sample_license_003.txt",
+    "summary": "[MOCK SUMMARY] This is a placeholder summary generated in mock mode (USE_MOCK_LLM=true), standing in for a 100-150 word LLM-written summary of the contract's purpose, obligations, and risks. Set USE_MOCK_LLM=false and provide an ANTHROPIC_API_KEY to generate a real summary from the contract text.",
+    "termination_clause": {
+      "found": true,
+      "excerpts": [
+        "[MOCK] Either party may terminate this Agreement upon 30 days notice."
+      ],
+      "notes": "[MOCK] Standard 30-day termination for convenience."
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "excerpts": [
+        "[MOCK] Each party shall keep Confidential Information secret."
+      ],
+      "notes": "[MOCK] Mutual confidentiality obligation."
+    },
+    "liability_clause": {
+      "found": false,
+      "excerpts": [],
+      "notes": ""
+    }
+  },
+  {
+    "contract_id": "sample_msa_001",
+    "filename": "sample_msa_001.txt",
+    "summary": "[MOCK SUMMARY] This is a placeholder summary generated in mock mode (USE_MOCK_LLM=true), standing in for a 100-150 word LLM-written summary of the contract's purpose, obligations, and risks. Set USE_MOCK_LLM=false and provide an ANTHROPIC_API_KEY to generate a real summary from the contract text.",
+    "termination_clause": {
+      "found": true,
+      "excerpts": [
+        "[MOCK] Either party may terminate this Agreement upon 30 days notice."
+      ],
+      "notes": "[MOCK] Standard 30-day termination for convenience."
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "excerpts": [
+        "[MOCK] Each party shall keep Confidential Information secret."
+      ],
+      "notes": "[MOCK] Mutual confidentiality obligation."
+    },
+    "liability_clause": {
+      "found": false,
+      "excerpts": [],
+      "notes": ""
+    }
+  },
+  {
+    "contract_id": "sample_nda_002",
+    "filename": "sample_nda_002.txt",
+    "summary": "[MOCK SUMMARY] This is a placeholder summary generated in mock mode (USE_MOCK_LLM=true), standing in for a 100-150 word LLM-written summary of the contract's purpose, obligations, and risks. Set USE_MOCK_LLM=false and provide an ANTHROPIC_API_KEY to generate a real summary from the contract text.",
+    "termination_clause": {
+      "found": true,
+      "excerpts": [
+        "[MOCK] Either party may terminate this Agreement upon 30 days notice."
+      ],
+      "notes": "[MOCK] Standard 30-day termination for convenience."
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "excerpts": [
+        "[MOCK] Each party shall keep Confidential Information secret."
+      ],
+      "notes": "[MOCK] Mutual confidentiality obligation."
+    },
+    "liability_clause": {
+      "found": false,
+      "excerpts": [],
+      "notes": ""
+    }
+  }
+]
